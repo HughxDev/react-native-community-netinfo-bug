@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "react-native-community-netinfo-bug",
+    "slug": "react-native-community-netinfo-bug",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "react-native-community-netinfo-bug"
+}
